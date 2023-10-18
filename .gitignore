@@ -1,7 +1,4 @@
 classes/
 
 #commment
-folder1/folder-new/some.log
-
-
-.gitignore
+*.log

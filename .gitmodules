@@ -1,0 +1,3 @@
+[submodule "lib/myspringboot"]
+	path = lib/myspringboot
+	url = https://github.com/GitToMyRepo/myspringboot.git
